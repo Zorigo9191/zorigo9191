@@ -40,4 +40,4 @@ Deployment und CI/CD
 🎯 Mein Ziel
 Ich möchte mich als Frontend Developer mit Full-Stack-Perspektive weiterentwickeln und an modernen Webprojekten arbeiten, bei denen ich meine bisherigen Kenntnisse einbringen und gleichzeitig kontinuierlich dazulernen kann.
 
-📫 Kontakt & Projekte: Schau dich gerne in meinen Repositories um oder kontaktiere mich über GitHub.
+
