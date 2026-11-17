@@ -18,6 +18,7 @@ Im Frontend baue ich mit React, TypeScript und Vite responsive Oberflächen, die
 
 
 🚀 Daran arbeite ich gerade
+
 Mein Backend-Wissen ausbauen und APIs sauber aufbauen
 Größere React-Projekte besser strukturieren
 TypeScript so einsetzen, wie es im Berufsalltag üblich ist
@@ -26,6 +27,7 @@ Deployment und CI/CD
 
 
 🎯 Mein Ziel
+
 Ich möchte als Fullstack Developer in einem Team an modernen Webprojekten mitarbeiten, 
 mein bisheriges Wissen einbringen und mit erfahrenen Kollegen weiter wachsen.
 
